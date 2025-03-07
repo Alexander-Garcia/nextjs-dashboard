@@ -1,3 +1,6 @@
+// Global css import applies to ALL routes
+import "@/app/ui/global.css";
+
 export default function RootLayout({
   children,
 }: {
